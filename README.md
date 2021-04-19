@@ -1,5 +1,5 @@
 # Project_Labelling_mulitple_cell_images_individually
-- Switch to master branch to see the code
+- Switch to master branch to see the code and my models
 - Training Datasets used are in this link Dataset1 : https://www.kaggle.com/thedrcat/hpa-cell-tiles-sample-balanced-dataset
 - Testing Dataset 2: https://www.kaggle.com/c/hpa-single-cell-image-classification/data
 - If the notebook doesn't load
